@@ -1,6 +1,6 @@
 ## University Obligations Assistance Project
 
-Welcome to the University Obligations Assistance Project! This project is designed to help university students manage their academic obligations effectively through a client-server application.
+Welcome to the University Obligations Assistance Project! This project is designed to help university students manage their academic obligations effectively through a client-server desktop application.
 
 ### Overview
 
