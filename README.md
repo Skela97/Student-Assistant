@@ -1,4 +1,4 @@
-## University Obligations Assistance Project (University Project - 2022)
+## University Obligations Assistant (University Project - 2021)
 
 This project is designed to help university students manage their academic obligations effectively through a client-server desktop application. The project has been extended to serve as a component of a bachelor's thesis, which is included within the project repository.
 
