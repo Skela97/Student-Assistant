@@ -2,15 +2,6 @@
 
 This project is designed to help university students manage their academic obligations effectively through a client-server desktop application. The project has been extended to serve as a component of a bachelor's thesis, which is included within the project repository.
 
-### Overview
-
-- **Admins:** Manages subjects and projects.
-- **Subjects:** Represent different areas of study within the curriculum.
-- **Projects:** Specific tasks or assignments within Subjects that Students work on as part of their learning journey.
-- **Students:** Manages plans and plan items.
-- **Plans:** -  Plan is created for a subject.
-- **PlantItems:** - Plan items are created for specific projects within the subject.
-
 ### Architecture
 
 The project consists of three main components:
