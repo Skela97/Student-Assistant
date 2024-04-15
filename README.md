@@ -12,7 +12,7 @@ The project consists of three main components:
 
 ### Technologies
 - **Java SE** - Used for providing essential libraries and runtime environment.
-- **MySQK** - Used for storing and managing application data.
+- **MySQL** - Used for storing and managing application data.
 - **JDBC** - Used to connect and interact with database.
 - **Swing** - Used for UI development.
 - **Sockets** - Used for communication between client and server part of the application.
